@@ -2,6 +2,10 @@
 
 A simple shopping cart web application built using React.js. The application displays products and allows users to manage items in a shopping cart.
 
+## Screenshot
+
+![Shopping Cart Screenshot](public/shopping-cart-screenshot.png)
+
 ## Features
 
 - Display products with images and details
@@ -25,7 +29,8 @@ A simple shopping cart web application built using React.js. The application dis
 shopping-cart/
 │
 ├── public/
-│   └── Product images
+│   ├── Product images
+│   └── shopping-cart-screenshot.png
 │
 ├── src/
 │   ├── App.js
@@ -37,4 +42,6 @@ shopping-cart/
 │   └── index.js
 │
 ├── package.json
+├── package-lock.json
+├── .gitignore
 └── README.md
